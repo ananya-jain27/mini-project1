@@ -1,1 +1,2 @@
-This is my first html,css mini project. named as "Photo Gallary".
+# Photo Gallery
+This is my first html,css mini project. 
